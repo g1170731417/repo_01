@@ -6,7 +6,7 @@ import lombok.Setter;
 @Getter
 @Setter
 public class JsonResult<T> {
-	/** 成功 */
+	/** 成功1*/
 	public static final int SUCCESS = 200;
 
 	/** 没有登录 */
