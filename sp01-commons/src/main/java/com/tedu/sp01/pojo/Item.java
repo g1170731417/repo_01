@@ -14,10 +14,7 @@ public class Item {
 	private String name;
 	//数字
 	private Integer number;
-<<<<<<< HEAD
 	//12313131313312
 }
-=======
 //woshiyizhiji
-}
->>>>>>> branch 'master' of https://github.com/g1170731417/repo_01.git
+
